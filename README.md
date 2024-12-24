@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git Repository.
 <br><br>
-Author - Abdullah Tasleem 
+Author - Abdullah (Tasleem Anwar)
